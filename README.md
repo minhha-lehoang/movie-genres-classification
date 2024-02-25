@@ -9,7 +9,7 @@ Collaborative Filtering technique versus Multi-modal Network to classify movie g
 | Vu Bao Chau        | 21020460   | 21020460@vnu.edu.vn |
 
 ## Project description
-**Movie genre classification** is a crucial task that has found applications in various fields. Can be treated as an _Extreme Multi-label Classification_ (XMC) task with long-tailed data, this problem is not only valuable in real-world domains, such as for recommendation systems, but also leave space for researches on XMC. In this experiment, we implement two different approach for this problem: Rating-based Collaborative Filtering and Label Correlation-based Multi-modal Network. We conduct our methods on the given MovieLens dataset, achieving the best macro F1-score of 0.56.
+**Movie genre classification** is a crucial task that has found applications in various fields. Can be treated as an _Extreme Multi-label Classification_ (XMC) task with long-tailed data, this problem is not only valuable in real-world domains, such as for recommendation systems, but also leave space for researches on XMC. In this experiment, we implement two different approach for this problem: Rating-based Collaborative Filtering and Label Correlation-based Multi-modal Network. We conduct our methods on the given MovieLens dataset, achieving the best macro **F1-score of 0.56**.
 
 
-_Keywords_: movie genres classification, longtail data, multi-modal, multi-label learning, class imbalanced, label correlation, rating-based
+_Keywords_: movie genres classification, longtail data, multi-modal, multi-label learning, class imbalanced, label correlation, rating-based
